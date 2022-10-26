@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.lines {
+
+    outline: 2px dashed black;
+    
+}
+
+html {
+
+    scroll-behavior: smooth;
+}
