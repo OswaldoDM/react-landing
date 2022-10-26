@@ -1,11 +1,8 @@
-import relojHero from '../img/Reloj2.png'
+import relojHero from './images/Reloj2.png'
 import userNoB from '../img/user-nob.png'
 
 
-export function Hero() {
-
-    
-
+export function Hero() {  
 
 return(
 
