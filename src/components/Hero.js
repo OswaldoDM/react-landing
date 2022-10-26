@@ -39,7 +39,8 @@ return(
 
     {/* HERO IMAGE */}
     <div className=" sm:block w-1/2 sm:w-1/3 lg:w-3/5 relative">
-        <img src={relojHero} className="max-w-xs md:max-w-sm m-auto"/>
+        {/* <img src={relojHero} className="max-w-xs md:max-w-sm m-auto"/> */}
+        <img src={require('./images/Reloj2.png').default} className="max-w-xs md:max-w-sm m-auto" />
     </div>
     
 
